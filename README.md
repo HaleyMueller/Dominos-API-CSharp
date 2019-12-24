@@ -1,4 +1,4 @@
-# Domino's API CSharp
+# Domino's API C#
 This is an api that talks to Domino's web service that was made using C#
 
 This was made on .NET Core 2.1. This can run on Windows, Linux, and Mac if you have [.NET Core](https://dotnet.microsoft.com/download) installed.
