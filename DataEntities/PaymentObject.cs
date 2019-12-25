@@ -82,6 +82,11 @@ namespace Dominos_API.DataEntities
             get; set;
         }
 
+        public decimal? TipAmount
+        {
+            get; set;
+        }
+
         public string CardType
         {
             get; set;
